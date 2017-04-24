@@ -1,4 +1,4 @@
-# alpine-grunt-bower
+# alpine-cordova-grunt-bower
 
 [![](https://badge.imagelayers.io/mikaoelitiana/alpine-cordova-grunt-bower.svg)](https://imagelayers.io/?images=mikaoelitiana/alpine-cordova-grunt-bower 'Get your own badge on imagelayers.io')
 
